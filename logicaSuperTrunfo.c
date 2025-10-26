@@ -8,6 +8,7 @@
 int main() {
 
     printf("Desafio_Super_trunfo_Nivel_Aventureiro!");
+    printf("Novo commit\n");
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
 
